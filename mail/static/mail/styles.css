@@ -1,0 +1,23 @@
+textarea {
+  min-height: 400px;
+}
+
+.read {
+  background-color: #d3d3d3;
+  /* Cinza claro */
+}
+
+.unread {
+  background-color: #ffffff;
+  /* Branco ou outra cor */
+}
+
+.border.border-dark.read {
+  padding: 10px;
+  margin: 5px;
+}
+
+.border.border-dark.unread {
+  padding: 10px;
+  margin: 5px;
+}
