@@ -41,7 +41,16 @@ GET /emails/<email_id>: Recupera o conteúdo detalhado de uma mensagem.
 <h2 align="left">📺 Demonstração em Vídeo</h2>
 
 <div align="center">
-  []
+  [ARRASTE O VÍDEO DO COMPUTADOR PARA ESTA LINHA]
 
-  <p><i>D.</i></p>
+  <br />
+
+  <p>
+    🚀 <i>Caso o vídeo acima não carregue, assista diretamente no YouTube:</i> <br />
+    <a href="COLOQUE_O_LINK_DO_YOUTUBE_AQUI" target="_blank">
+      <strong>Assistir demonstração no YouTube →</strong>
+    </a>
+  </p>
 </div>
+
+---
