@@ -43,7 +43,7 @@ GET /emails/<email_id>: Recupera o conteúdo detalhado de uma mensagem.
 <div align="center">
   
 
-https://github.com/user-attachments/assets/cb3cf95c-8da0-4264-b229-4e0946f50b28
+https://github.com/user-attachments/assets/a8d24ad6-b287-4989-97ad-ac03f4cef4c7
 
 
   <br />
