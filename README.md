@@ -41,7 +41,7 @@ GET /emails/<email_id>: Recupera o conteúdo detalhado de uma mensagem.
 <h2 align="left">📺 Demonstração em Vídeo</h2>
 
 <div align="center">
-  [COLE OU ARRASTE SEU VÍDEO AQUI]
+  []
 
-  <p><i>Demonstração do fluxo de autenticação, criação de tarefas e responsividade da interface.</i></p>
+  <p><i>D.</i></p>
 </div>
