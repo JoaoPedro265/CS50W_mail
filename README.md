@@ -41,10 +41,12 @@ GET /emails/<email_id>: Recupera o conteúdo detalhado de uma mensagem.
 <h2 align="left">📺 Demonstração em Vídeo</h2>
 
 <div align="center">
-  [ARRASTE O VÍDEO DO COMPUTADOR PARA ESTA LINHA]
+  
+
+https://github.com/user-attachments/assets/cb3cf95c-8da0-4264-b229-4e0946f50b28
+
 
   <br />
-
   <p>
     <a href="https://youtu.be/7rB2kHTeZlE" target="_blank">
       <strong>🚀 <i>Confira a demonstração no YouTube:</i></strong>
