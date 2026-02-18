@@ -46,8 +46,8 @@ GET /emails/<email_id>: Recupera o conteúdo detalhado de uma mensagem.
   <br />
 
   <p>
-    🚀 <i>Confira a demonstração no YouTube:</i> <br />
     <a href="https://youtu.be/7rB2kHTeZlE" target="_blank">
+      <strong>🚀 <i>Confira a demonstração no YouTube:</i></strong>
     </a>
   </p>
 </div>
