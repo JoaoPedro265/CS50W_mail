@@ -37,3 +37,12 @@ GET /emails/<email_id>: Recupera o conteúdo detalhado de uma mensagem.
 <div align="left">
 <img src="https://skillicons.dev/icons?i=js,html,css,django,py,sqlite" height="40" />
 </div>
+###
+
+<h2 align="left">📺 Demonstração em Vídeo</h2>
+
+<div align="center">
+  [COLE OU ARRASTE SEU VÍDEO AQUI]
+
+  <p><i>Demonstração do fluxo de autenticação, criação de tarefas e responsividade da interface.</i></p>
+</div>
